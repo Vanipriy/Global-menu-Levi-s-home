@@ -1,0 +1,18 @@
+[
+    {
+      "title": "HOODIES & SWEATSHIRTS",
+      "image": "src/assets/Image1.png"
+    },
+    {
+      "title": "JEANS",
+      "image": "src/assets/Image2.png"
+    },
+    {
+      "title": "BACKPACKS",
+      "image": "src/assets/Image3.png"
+    },
+    {
+      "title": "TRUCKERS & SHERPAS",
+      "image": "src/assets/Image4.png"
+    }
+  ]
