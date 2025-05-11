@@ -45,7 +45,7 @@ const Promotion = () => {
       <div
         className="relative w-full h-[500px] md:h-[600px] bg-cover bg-center flex items-center justify-center text-white"
         style={{
-          backgroundImage: `url('src/assets/Background.png')`,
+          backgroundImage: `url('/Background.png')`,
         }}
       >
         <div className="absolute inset-0 bg-black/30"></div>
@@ -54,7 +54,7 @@ const Promotion = () => {
           {/* Levi's Logo */}
           <div className="flex justify-center mb-4">
             <img
-              src="src/assets/download.png" // Replace with actual Levi's logo
+              src="./download.png" // Replace with actual Levi's logo
               alt="Levi's Logo"
               className="h-10"
             />
@@ -143,7 +143,7 @@ const Promotion = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 p-8 md:px-20">
         <div className="flex flex-col justify-center">
           <img
-            src="src/assets/Image16.png" // Replace with actual image
+            src="/Image16.png" // Replace with actual image
             alt="Plant-Based Jeans"
             className="h-10 w-50 justify-center"
           />
@@ -161,7 +161,7 @@ const Promotion = () => {
         </div>
         <div>
           <img
-            src="src/assets/Image12.png" // Replace with actual image
+            src="/Image12.png" // Replace with actual image
             alt="Plant-Based Jeans"
             className="w-[550px] h-[500px] object-cover"
           />
@@ -221,7 +221,7 @@ const Promotion = () => {
           {/* Men */}
           <div className="text-center">
             <img
-              src="src/assets/Image13.png"
+              src="/Image13.png"
               alt="Men"
               className="w-full max-w-[300px] h-auto object-cover sm:w-[280px] sm:h-[200px] md:w-[340px] md:h-[372px]"
             />
@@ -233,7 +233,7 @@ const Promotion = () => {
           {/* Women */}
           <div className="text-center">
             <img
-              src="src/assets/Image14.png"
+              src="/Image14.png"
               alt="Women"
               className="w-full max-w-[300px] h-auto object-cover sm:w-[280px] sm:h-[200px] md:w-[340px] md:h-[372px]"
             />
@@ -245,7 +245,7 @@ const Promotion = () => {
           {/* Accessories */}
           <div className="text-center">
             <img
-              src="src/assets/Image15.png"
+              src="/Image15.png"
               alt="Accessories"
               className="w-full max-w-[300px] h-auto object-cover sm:w-[280px] sm:h-[200px] md:w-[340px] md:h-[372px]"
             />

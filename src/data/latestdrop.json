@@ -1,18 +1,18 @@
 [
     {
         "name": "LEVI'S' X PRINCESS MONOHOKE",
-        "image": "src/assets/ss1 (4).png"
+        "image": "/ss1 (4).png"
     },
     {
         "name": "LEVI'S' FREEHAAND FOLK",
-        "image": "src/assets/ss1 (1).png"
+        "image": "/ss1 (1).png"
     },
     {
         "name": "LEVIS'S' SKATEBOARDONG",
-        "image": "src/assets/ss1 (2).png"
+        "image": "/ss1 (2).png"
     },
     {
         "name": "WORKWEAR",
-        "image": "src/assets/ss1 (3).png"
+        "image": "/ss1 (3).png"
     }  
 ]
